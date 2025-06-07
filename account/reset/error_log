@@ -1,0 +1,24 @@
+[02-Nov-2024 18:34:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/howbqlpi/public_html/database.php on line 2
+[02-Nov-2024 18:34:10 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Failed to connect to server in /home/howbqlpi/public_html/phpmailer/src/PHPMailer.php:2282
+Stack trace:
+#0 /home/howbqlpi/public_html/phpmailer/src/PHPMailer.php(2058): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/howbqlpi/public_html/phpmailer/src/PHPMailer.php(1687): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sat, 2 No...', '   \r\n          ...')
+#2 /home/howbqlpi/public_html/phpmailer/src/PHPMailer.php(1521): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/howbqlpi/public_html/account/reset/reset-logic.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/howbqlpi/public_html/phpmailer/src/PHPMailer.php on line 2282
+[03-Nov-2024 14:35:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/howbqlpi/public_html/database.php on line 2
+[03-Nov-2024 14:36:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/emails/email_constant.php:1) in /home/howbqlpi/public_html/account/reset/reset-logic.php on line 44
+[03-Nov-2024 14:38:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/howbqlpi/public_html/database.php on line 2
+[03-Nov-2024 14:39:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/emails/email_constant.php:1) in /home/howbqlpi/public_html/account/reset/reset-logic.php on line 44
+[03-Nov-2024 14:39:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/howbqlpi/public_html/database.php on line 2
+[03-Nov-2024 14:40:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/emails/email_constant.php:1) in /home/howbqlpi/public_html/account/reset/reset-logic.php on line 44
+[03-Nov-2024 14:43:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/howbqlpi/public_html/database.php on line 2
+[03-Nov-2024 14:44:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/emails/email_constant.php:1) in /home/howbqlpi/public_html/account/reset/reset-logic.php on line 44
+[03-Nov-2024 14:45:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/howbqlpi/public_html/database.php on line 2
+[03-Nov-2024 14:46:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/emails/email_constant.php:1) in /home/howbqlpi/public_html/account/reset/reset-logic.php on line 44
+[03-Nov-2024 14:47:54 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/howbqlpi/public_html/account/reset/reset-logic.php on line 47
+[03-Nov-2024 14:48:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/howbqlpi/public_html/database.php on line 2
+[03-Nov-2024 14:49:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/emails/email_constant.php:1) in /home/howbqlpi/public_html/account/reset/reset-logic.php on line 44
+[31-Mar-2025 14:56:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/partials/header.php:8) in /home/howbqlpi/public_html/account/reset/reset.php on line 48
+[31-Mar-2025 14:56:25 UTC] PHP Warning:  Undefined array key "update" in /home/howbqlpi/public_html/account/reset/reset.php on line 121

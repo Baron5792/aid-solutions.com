@@ -1,0 +1,135 @@
+<style>
+    .wizard {
+        text-align: center;
+    }
+    
+    .wizard-steps {
+        display: flex;
+        justify-content: space-around;
+        font-size: 1.2em;
+        color: #aaa;
+        margin-bottom: 10px;
+    }
+    
+    .wizard-step.current {
+        color: #28a745;
+        font-weight: bold;
+    }
+    
+    .wizard-progress-bar {
+        background-color: #ddd;
+        height: 4px;
+        width: 100%;
+        position: relative;
+    }
+    
+    .wizard-progress {
+        background-color: #28a745;
+        height: 100%;
+        width: 0%;
+        transition: width 0.3s ease;
+    }
+    
+    .wizard-content {
+        margin: 20px 0;
+    }
+    
+    .wizard-step-content {
+        display: none;
+    }
+    
+    .wizard-step-content.current {
+        display: block;
+    }
+    
+</style>
+
+<div class="wizard">
+    <div class="wizard-steps">
+        <span class="wizard-step current">1</span>
+        <span class="wizard-step">2</span>
+        <span class="wizard-step">3</span>
+        <span class="wizard-step">4</span>
+        <span class="wizard-step">5</span>
+        <span class="wizard-step">6</span>
+        <span class="wizard-step">7</span>
+    </div>
+    <div class="wizard-progress-bar">
+        <div class="wizard-progress"></div>
+    </div>
+
+    <div class="wizard-content">
+        <div class="wizard-step-content current" id="wizard-content1">
+            <div class="container">
+                <div class="form-group">
+                    <div class="row">
+                        <div class="col-12 col-md-6" >
+                            <input type="text" name="name" class="form-control" id="" placeholder="Account Name">
+                        </div>
+                        <div class="col-12 col-md-6" >
+                            <input type="email" name="email" id="" class="form-control" placeholder="Email">
+                        </div>
+                        <div class="col-12 col-md-6" >
+                            <input type="text" name="phone" id="" class="form-control" placeholder="Phone Number">
+                        </div>
+                        <div class="col-12 col-md-6" >
+                            <input type="text" name="bank_name" id="" class="form-control" placeholder="Bank Name">
+                        </div>
+                        <div class="col-12 col-md-6" >
+                            <input type="text" name="bank_name" id="" class="form-control" placeholder="Bank Name">
+                        </div>
+                        <div class="col-12">
+                            input:
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <button onclick="wizardNext()">Next</button>
+        </div>
+
+        
+        <div class="wizard-step-content" id="wizard-content2">
+            <p>Content for Step 2</p>
+            <button onclick="wizardPrev()">Previous</button>
+            <button onclick="wizardNext()">Next</button>
+        </div>
+        <div class="wizard-step-content" id="wizard-content3">
+            <p>Content for Step 3</p>
+            <button onclick="wizardPrev()">Previous</button>
+            <button onclick="wizardNext()">Next</button>
+        </div>
+        <!-- Repeat for other steps -->
+    </div>
+</div>
+
+
+<script>
+    let wizardCurrentStep = 1;
+
+    function showWizardStep(step) {
+        document.querySelectorAll(".wizard-step-content").forEach((content, index) => {
+            content.classList.toggle("current", index === step - 1);
+        });
+        document.querySelectorAll(".wizard-step").forEach((stepElem, index) => {
+            stepElem.classList.toggle("current", index === step - 1);
+        });
+        document.querySelector(".wizard-progress").style.width = `${(step - 1) / 6 * 100}%`;
+    }
+
+    function wizardNext() {
+        if (wizardCurrentStep < 7) {
+            wizardCurrentStep++;
+            showWizardStep(wizardCurrentStep);
+        }
+    }
+
+    function wizardPrev() {
+        if (wizardCurrentStep > 1) {
+            wizardCurrentStep--;
+            showWizardStep(wizardCurrentStep);
+        }
+    }
+
+    showWizardStep(wizardCurrentStep);
+</script>

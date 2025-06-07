@@ -1,0 +1,46 @@
+1. make sure no images can be saved   >>>>>>
+2. their alternative values should be given
+3. work on the mobile sidenav view  >>>>>>
+4. fill out the domains email address in the FAQ page for email chat support
+5. link the job categories.php page
+6. link everything on the side nav bar
+7.
+8.
+9.
+10.
+11.
+
+
+
+
+
+before hosting -----------------------------------------------------
+follow the steps in the apply page
+-- users must register, complete profile, take a survey test, apply for jobs
+link ads to the site from adsence
+set up recaptcha and google authenticator
+
+
+after hosting ----------------------------------------------------
+insert the company emails in the contact page
+privacy policy page
+terms and conditions
+about us page
+clearly go through them
+
+
+
+
+
+
+
+
+
+<!-- after displaying jobs in the dashboard and search job page -->
+<!-- run the logic for the search jobs -->
+<!-- work on the admin search jobs too -->
+done
+
+
+<!-- delete every realted job from job_alert table if the applied job is declined or if the user unapplies for the position -->
+

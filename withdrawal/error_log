@@ -1,0 +1,362 @@
+[05-Nov-2024 05:36:23 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 466
+[05-Nov-2024 05:36:23 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 522
+[05-Nov-2024 05:36:23 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 540
+[05-Nov-2024 05:36:23 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 545
+[05-Nov-2024 05:36:23 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 561
+[05-Nov-2024 05:36:23 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 575
+[05-Nov-2024 05:36:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 573
+[05-Nov-2024 05:40:55 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 466
+[05-Nov-2024 05:40:55 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 522
+[05-Nov-2024 05:40:55 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 540
+[05-Nov-2024 05:40:55 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 545
+[05-Nov-2024 05:40:55 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 561
+[05-Nov-2024 05:40:55 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 575
+[05-Nov-2024 05:40:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 573
+[05-Nov-2024 08:54:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 559
+[05-Nov-2024 08:54:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 559
+[06-Nov-2024 01:37:05 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 466
+[06-Nov-2024 01:37:05 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 522
+[06-Nov-2024 01:37:05 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 540
+[06-Nov-2024 01:37:05 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 545
+[06-Nov-2024 01:37:05 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 561
+[06-Nov-2024 01:37:05 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 575
+[06-Nov-2024 01:37:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 29
+[06-Nov-2024 01:37:05 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 82
+[06-Nov-2024 01:37:05 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 91
+[06-Nov-2024 01:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateRandomString() in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 109
+[06-Nov-2024 03:08:00 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 466
+[06-Nov-2024 03:08:00 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 522
+[06-Nov-2024 03:08:00 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 540
+[06-Nov-2024 03:08:00 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 545
+[06-Nov-2024 03:08:00 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 561
+[06-Nov-2024 03:08:00 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 575
+[06-Nov-2024 03:08:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 563
+[06-Nov-2024 03:12:00 UTC] PHP Warning:  Undefined array key "file" in /home/howbqlpi/public_html/withdrawal/payment-slip.php on line 5
+[06-Nov-2024 03:13:08 UTC] PHP Warning:  Undefined array key "file" in /home/howbqlpi/public_html/withdrawal/payment-slip.php on line 5
+[06-Nov-2024 04:33:57 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/howbqlpi/public_html/withdrawal/payment-slip.php on line 57
+[06-Nov-2024 04:35:58 UTC] PHP Warning:  Undefined array key "percentage" in /home/howbqlpi/public_html/withdrawal/payment-slip.php on line 7
+[06-Nov-2024 04:35:59 UTC] PHP Warning:  Undefined array key "account_number" in /home/howbqlpi/public_html/withdrawal/payment-slip.php on line 8
+[06-Nov-2024 04:35:59 UTC] PHP Warning:  Undefined array key "bank" in /home/howbqlpi/public_html/withdrawal/payment-slip.php on line 9
+[06-Nov-2024 04:35:59 UTC] PHP Warning:  Undefined array key "transactionId" in /home/howbqlpi/public_html/withdrawal/payment-slip.php on line 10
+[06-Nov-2024 04:35:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/withdrawal/payment-slip.php:7) in /home/howbqlpi/public_html/withdrawal/payment-slip.php on line 66
+[06-Nov-2024 04:36:00 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 466
+[06-Nov-2024 04:36:00 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 522
+[06-Nov-2024 04:36:00 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 540
+[06-Nov-2024 04:36:00 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 545
+[06-Nov-2024 04:36:00 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 561
+[06-Nov-2024 04:36:00 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 575
+[06-Nov-2024 04:36:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 564
+[06-Nov-2024 04:37:00 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 466
+[06-Nov-2024 04:37:00 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 522
+[06-Nov-2024 04:37:00 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 540
+[06-Nov-2024 04:37:00 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 545
+[06-Nov-2024 04:37:00 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 561
+[06-Nov-2024 04:37:00 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 575
+[06-Nov-2024 04:37:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 29
+[06-Nov-2024 04:37:00 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 82
+[06-Nov-2024 04:37:00 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 91
+[06-Nov-2024 04:37:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateRandomString() in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 109
+[06-Nov-2024 05:31:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 524
+[06-Nov-2024 05:31:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 524
+[06-Nov-2024 06:45:20 UTC] PHP Warning:  Undefined variable $amount in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 30
+[06-Nov-2024 06:45:20 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 30
+[06-Nov-2024 06:45:20 UTC] PHP Warning:  Undefined variable $amount in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 30
+[06-Nov-2024 06:45:20 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 30
+[06-Nov-2024 06:45:44 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 30
+[06-Nov-2024 06:45:44 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 30
+[06-Nov-2024 06:45:52 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 30
+[06-Nov-2024 06:45:52 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 30
+[06-Nov-2024 06:45:52 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 30
+[06-Nov-2024 06:46:20 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 31
+[06-Nov-2024 06:46:20 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 31
+[06-Nov-2024 06:46:22 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 31
+[06-Nov-2024 06:46:22 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 31
+[06-Nov-2024 06:46:23 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 31
+[06-Nov-2024 06:46:23 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 31
+[06-Nov-2024 06:49:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:177
+Stack trace:
+#0 /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php(177): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 177
+[06-Nov-2024 06:49:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:177
+Stack trace:
+#0 /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php(177): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 177
+[06-Nov-2024 06:49:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:177
+Stack trace:
+#0 /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php(177): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 177
+[06-Nov-2024 06:49:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:177
+Stack trace:
+#0 /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php(177): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 177
+[06-Nov-2024 06:50:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:177
+Stack trace:
+#0 /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php(177): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 177
+[06-Nov-2024 06:50:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:177
+Stack trace:
+#0 /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php(177): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 177
+[06-Nov-2024 06:50:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:177
+Stack trace:
+#0 /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php(177): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 177
+[06-Nov-2024 06:50:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:177
+Stack trace:
+#0 /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php(177): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 177
+[06-Nov-2024 07:23:45 UTC] PHP Warning:  Undefined variable $originalWord in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 202
+[06-Nov-2024 07:23:46 UTC] PHP Warning:  Undefined variable $originalWord in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 202
+[06-Nov-2024 07:28:39 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 240
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 466
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 522
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 540
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 545
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 561
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 575
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 42
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 108
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 117
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 127
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 135
+[06-Nov-2024 09:10:29 UTC] PHP Warning:  Undefined variable $userId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 189
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 466
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 522
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 540
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 545
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 561
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 575
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 42
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 108
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 117
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 127
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 135
+[06-Nov-2024 14:50:59 UTC] PHP Warning:  Undefined variable $userId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 189
+[10-Nov-2024 03:24:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send() in /home/howbqlpi/public_html/withdrawal/payment-slip.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/howbqlpi/public_html/withdrawal/payment-slip.php on line 89
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 467
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 523
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 541
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 562
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 576
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 42
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 108
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 117
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 127
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 135
+[11-Nov-2024 14:24:07 UTC] PHP Warning:  Undefined variable $userId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 189
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 467
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 523
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 541
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 562
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 576
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 42
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 108
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 117
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 127
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 135
+[13-Nov-2024 14:25:44 UTC] PHP Warning:  Undefined variable $userId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 189
+[13-Nov-2024 14:35:07 UTC] PHP Fatal error:  Cannot redeclare cutFirstTenLetters() (previously declared in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:252) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 252
+[13-Nov-2024 14:35:10 UTC] PHP Fatal error:  Cannot redeclare cutFirstTenLetters() (previously declared in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:252) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 252
+[13-Nov-2024 14:38:00 UTC] PHP Fatal error:  Cannot redeclare cutFirstTenLetters() (previously declared in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:252) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 252
+[13-Nov-2024 14:38:41 UTC] PHP Fatal error:  Cannot redeclare cutFirstTenLetters() (previously declared in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:252) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 252
+[13-Nov-2024 14:38:45 UTC] PHP Fatal error:  Cannot redeclare cutFirstTenLetters() (previously declared in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:252) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 252
+[13-Nov-2024 14:50:29 UTC] PHP Fatal error:  Cannot redeclare cutFirstTenLetters() (previously declared in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:201) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 201
+[13-Nov-2024 14:50:32 UTC] PHP Fatal error:  Cannot redeclare cutFirstTenLetters() (previously declared in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php:201) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 201
+[13-Nov-2024 14:54:54 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[13-Nov-2024 14:54:54 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[13-Nov-2024 14:54:55 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[13-Nov-2024 14:54:55 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[17-Nov-2024 01:07:41 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[17-Nov-2024 01:07:42 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[17-Nov-2024 01:10:13 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[17-Nov-2024 01:10:13 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[17-Nov-2024 01:11:34 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[17-Nov-2024 01:11:35 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[23-Nov-2024 02:49:41 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[23-Nov-2024 02:49:41 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[23-Nov-2024 02:49:42 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[23-Nov-2024 02:49:42 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[24-Nov-2024 23:37:13 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[24-Nov-2024 23:37:13 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[24-Nov-2024 23:37:14 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[24-Nov-2024 23:37:14 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 467
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 523
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 541
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 562
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 576
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 42
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 108
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 117
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 127
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 135
+[27-Nov-2024 21:23:09 UTC] PHP Warning:  Undefined variable $userId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 189
+[28-Nov-2024 17:21:35 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 467
+[28-Nov-2024 17:21:35 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 523
+[28-Nov-2024 17:21:35 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 541
+[28-Nov-2024 17:21:35 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[28-Nov-2024 17:21:35 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 562
+[28-Nov-2024 17:21:35 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 576
+[28-Nov-2024 17:21:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 596
+[28-Nov-2024 18:01:36 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 467
+[28-Nov-2024 18:01:36 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 523
+[28-Nov-2024 18:01:36 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 541
+[28-Nov-2024 18:01:36 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[28-Nov-2024 18:01:36 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 562
+[28-Nov-2024 18:01:36 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 576
+[28-Nov-2024 18:01:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 596
+[30-Nov-2024 05:31:12 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 05:31:12 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 05:31:13 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 05:31:13 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:55:48 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:55:48 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:55:48 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:55:48 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:58:43 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:58:43 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:58:43 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:58:44 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:58:44 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[30-Nov-2024 13:58:44 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:05:16 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:05:16 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:05:16 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:05:17 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:05:17 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:05:17 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:12 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:12 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:12 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:13 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:13 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:13 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:55 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:55 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:55 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:55 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:55 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[07-Dec-2024 23:06:55 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Dec-2024 19:15:44 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Dec-2024 19:15:44 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Dec-2024 19:15:44 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Dec-2024 19:15:44 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Dec-2024 19:15:44 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Dec-2024 19:15:44 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Dec-2024 22:30:01 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 472
+[08-Dec-2024 22:30:01 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 528
+[08-Dec-2024 22:30:01 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[08-Dec-2024 22:30:01 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 551
+[08-Dec-2024 22:30:01 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 567
+[08-Dec-2024 22:30:01 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 581
+[08-Dec-2024 22:30:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 596
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 472
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 528
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 551
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 567
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 581
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 42
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 108
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 117
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 127
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 135
+[22-Dec-2024 14:50:47 UTC] PHP Warning:  Undefined variable $userId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 189
+[08-Jan-2025 18:18:41 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:18:41 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:18:41 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:18:42 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:18:42 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:18:42 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:31:33 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:31:33 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:31:33 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:31:35 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:31:35 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:31:35 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:35:56 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:35:56 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:35:56 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:35:57 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:35:57 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 18:35:57 UTC] PHP Warning:  Undefined variable $modifiedId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 286
+[08-Jan-2025 19:06:05 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:20 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:21 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:21 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:38 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:39 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:40 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:40 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:53 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:54 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:54 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:06:54 UTC] PHP Parse error:  syntax error, unexpected token "case" in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 251
+[08-Jan-2025 19:12:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 582
+[08-Jan-2025 19:12:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-processing.php on line 582
+[08-Jan-2025 23:57:20 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 472
+[08-Jan-2025 23:57:20 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 528
+[08-Jan-2025 23:57:20 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[08-Jan-2025 23:57:20 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 551
+[08-Jan-2025 23:57:20 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 567
+[08-Jan-2025 23:57:20 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 581
+[09-Jan-2025 08:57:32 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 472
+[09-Jan-2025 08:57:32 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 528
+[09-Jan-2025 08:57:32 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[09-Jan-2025 08:57:32 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 551
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 472
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 528
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 551
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 567
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 581
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 42
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 113
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 122
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 132
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 140
+[10-Jan-2025 14:09:12 UTC] PHP Warning:  Undefined variable $userId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 194
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 472
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 528
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 551
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 568
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 582
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 42
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 113
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 122
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 132
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 140
+[09-Feb-2025 10:40:51 UTC] PHP Warning:  Undefined variable $userId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 194
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $avatar in /home/howbqlpi/public_html/user/partials/header.php on line 472
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $firstanme in /home/howbqlpi/public_html/user/partials/header.php on line 528
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $admin in /home/howbqlpi/public_html/user/partials/header.php on line 546
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 551
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 568
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $id in /home/howbqlpi/public_html/user/partials/header.php on line 582
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/howbqlpi/public_html/user/partials/header.php:89) in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 42
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 113
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 122
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $pending in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 132
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $balance in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 140
+[27-Feb-2025 09:17:36 UTC] PHP Warning:  Undefined variable $userId in /home/howbqlpi/public_html/withdrawal/payment-withdraw-process.php on line 194
